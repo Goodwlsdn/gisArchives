@@ -1,2 +1,12 @@
-# gisArchives
-GIS Projects at Kyung Hee University
+## gisArchives
+
+경희대학교 지리학과 GIS 프로젝트 아카이브.
+
+---
+
+## About Me
+
+경희대학교 지리학과에서 공간 데이터를 활용하여 실생활과 접목할 수 있는 GIS 데이터 분석에 관심이 많았습니다.
+
+현재는 내비게이션 업계에서 지도 데이터 구축 업무를 담당하며, GIS 전문가로 성장해나가고 있습니다.
+
